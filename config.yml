@@ -1,0 +1,18 @@
+#      --[ Craft Slot Commands ]--
+
+# Commands to run on click
+# --------------------------------------#
+# If you put * in the start of a command
+# it will be executed by the console.
+# --------------------------------------#
+crafting-slot:
+  # Crafting result slot
+  0: ""
+  # Top left slot
+  1: ""
+  # Top right slot
+  2: ""
+  # Bottom left slot
+  3: ""
+  # Bottom right slot
+  4: ""
